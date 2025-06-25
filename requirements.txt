@@ -1,3 +1,13 @@
+langchain
+langchain_experimental
+dotenv
+langchain_core
+openai
+pandas
+os
+scikit-learn
+streamlit
+streamlit_chat
 sentence_transformers
 unstructured
 unstructured_inference
